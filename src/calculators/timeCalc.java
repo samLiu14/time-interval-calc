@@ -12,7 +12,7 @@ public class timeCalc {
 		
 		int start = input.nextInt();
 		
-		System.out.println("Time intervals:");
+		System.out.println("Time intervals in minutes:");
 		
 		int interval = input.nextInt();
 		
